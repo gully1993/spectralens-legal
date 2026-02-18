@@ -111,7 +111,7 @@ Per qualsiasi domanda relativa alla privacy:
 
 **support@spectralens.app**
 
-Consulta anche i [Termini e condizioni](./Term of use.md).
+Consulta anche i [Termini e condizioni](./Term.md).
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
@@ -229,4 +229,4 @@ For any privacy-related questions:
 
 **support@spectralens.app**
 
-Please also review our [Term of use](./Term of use.md).
+Please also review our [Term of use](./Term.md).
