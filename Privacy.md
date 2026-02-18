@@ -6,7 +6,6 @@
 
 ## 1. Introduzione
 
-SpectraLens ("l’app", "noi") è sviluppata da Gully93.  
 La presente Privacy Policy descrive come gestiamo le informazioni quando utilizzi l’app SpectraLens su dispositivi iOS.
 
 Utilizziamo i tuoi dati esclusivamente per fornire il servizio di analisi.  
@@ -123,7 +122,6 @@ Per qualsiasi domanda relativa alla privacy:
 
 ## 1. Introduction
 
-SpectraLens ("the app", "we", "us") is developed by Gully93.  
 This Privacy Policy explains how we handle information when you use the SpectraLens app on iOS devices.
 
 We use your data exclusively to provide the analysis service.  
