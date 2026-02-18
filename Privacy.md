@@ -54,7 +54,7 @@ Puoi revocarli in qualsiasi momento dalle Impostazioni di iOS.
 
 ## 4. Servizi di terze parti
 
-- **Google Gemini API** — Utilizzato per elaborare l’analisi AI delle immagini. Le immagini vengono trasmesse a Google esclusivamente per questo scopo. Per maggiori dettagli, consulta la Privacy Policy di Google.
+- **Google Gemini API** — Utilizzato per elaborare l’analisi AI delle immagini. I dati sono processati tramite il piano enterprise (Paid Tier) delle API Google Gemini, che garantisce la non ritenzione dei dati per l'addestramento dei modelli e l'assenza di revisione umana.
 - **Google Cloud Run** — Il nostro backend è ospitato su infrastruttura Google Cloud, situata in Europa (regione europe-west8). Tutte le comunicazioni avvengono tramite protocollo HTTPS cifrato.
 
 ---
@@ -171,7 +171,7 @@ You may revoke them at any time through your iOS device settings.
 
 ## 4. Third-Party Services
 
-- **Google Gemini API** — Used to perform AI image analysis. Images are transmitted to Google solely for this purpose. Please refer to Google’s Privacy Policy for more information.
+- **Google Gemini API** — Used to perform AI image analysis. Images are transmitted to Google solely for this purpose. The data is processed under the Google Gemini API Enterprise (Paid Tier) plan, which guarantees that data is not retained for model training purposes and is not subject to human review.
 - **Google Cloud Run** — Our backend is hosted on Google Cloud infrastructure located in Europe (region: europe-west8). All communications are encrypted via HTTPS.
 
 ---
