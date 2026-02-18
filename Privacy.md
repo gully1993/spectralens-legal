@@ -111,3 +111,121 @@ La data di "Ultimo aggiornamento" rifletterà sempre la versione più recente.
 Per qualsiasi domanda relativa alla privacy:  
 
 **support@spectralens.app**
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+# Privacy Policy — SpectraLens
+
+**Last updated:** February 18, 2026  
+
+---
+
+## 1. Introduction
+
+SpectraLens ("the app", "we", "us") is developed by Gully93.  
+This Privacy Policy explains how we handle information when you use the SpectraLens app on iOS devices.
+
+We use your data exclusively to provide the analysis service.  
+We do not sell, share, or monetize your personal information.
+
+---
+
+## 2. Data Collection and Use
+
+### Images (Camera and Photo Library)
+
+Images that you capture or select are sent to our server solely to perform AI analysis.  
+They are processed in real time and immediately deleted once the analysis is complete.
+
+Images are not stored, archived, or used to train AI models.  
+We do not retain any images on our systems.
+
+### Analysis Data
+
+Analysis results (text, categories, scores) are stored locally on your device using AsyncStorage.  
+They are never transmitted to external servers, except during the active analysis session.
+
+### Technical Session Data
+
+The app uses anonymous JWT tokens to authenticate requests to the backend.  
+These tokens do not contain any personally identifiable information.
+
+### No Account Required
+
+SpectraLens does not require registration, email, password, or any personal data to function.
+
+---
+
+## 3. Required Permissions
+
+| Permission      | Purpose                                           |
+|-----------------|--------------------------------------------------|
+| Camera          | Scan products and labels in real time            |
+| Photo Library   | Select existing images for analysis              |
+
+Permissions are requested only when you first use the related feature.  
+You may revoke them at any time through your iOS device settings.
+
+---
+
+## 4. Third-Party Services
+
+- **Google Gemini API** — Used to perform AI image analysis. Images are transmitted to Google solely for this purpose. Please refer to Google’s Privacy Policy for more information.
+- **Google Cloud Run** — Our backend is hosted on Google Cloud infrastructure located in Europe (region: europe-west8). All communications are encrypted via HTTPS.
+
+---
+
+## 5. Data Retention
+
+- **Images:** Not stored on the server. Deleted immediately after analysis.
+- **Analysis results:** Stored only locally on your device. You may delete them at any time within the app (Settings → Clear History).
+- **Session tokens:** Temporary and not persistent between sessions.
+
+---
+
+## 6. International Data Transfers
+
+Images are processed on servers located in Europe (Google Cloud, region: europe-west8).  
+No data is transferred outside the European Union.
+
+---
+
+## 7. Prohibited Content and User Responsibility
+
+You may not use SpectraLens to upload images containing unlawful, obscene, violent, offensive material, or content that infringes the rights of third parties (including copyright or privacy rights).
+
+Any misuse of the app is solely the responsibility of the user who uploads the content.  
+The developer disclaims any liability for unlawful use of the service.
+
+---
+
+## 8. Children
+
+SpectraLens is not intended for children under the age of 4.  
+We do not knowingly collect data from minors.
+
+---
+
+## 9. Your Rights (GDPR)
+
+Since we do not collect personally identifiable data, there is no personal data to access, modify, or delete.
+
+Locally stored data (scan history) is entirely under your control and can be deleted from within the app at any time.
+
+---
+
+## 10. Changes to This Policy
+
+Any significant changes to this Privacy Policy will be communicated through an app update.
+
+The "Last updated" date will always reflect the most recent version.
+
+---
+
+## 11. Contact
+
+For any privacy-related questions:
+
+**support@spectralens.app**
+
