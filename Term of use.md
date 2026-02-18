@@ -50,7 +50,7 @@ By using SpectraLens, you represent and warrant that:
 2. Your use of the App does not violate any applicable law or regulation;
 3. Your use does not infringe upon the rights of any third party.
 
-The developer of SpectraLens (Gully93) accepts **no liability** for any content uploaded by users, nor for any consequences arising from the misuse of the App.
+The developer of SpectraLens accepts **no liability** for any content uploaded by users, nor for any consequences arising from the misuse of the App.
 
 ---
 
