@@ -63,7 +63,7 @@ Images submitted through the App are:
 - **Never stored, archived, or used** to train AI models;
 - **Never shared** with third parties, except for the AI processing service (Google Gemini API) used to perform the analysis.
 
-For full details on data handling, please refer to our [Privacy Policy](./Privacy%20Policy.md).
+For full details on data handling, please refer to our [Privacy Policy](./Privacy.md).
 
 ---
 
